@@ -1,0 +1,45 @@
+{
+  "message": {
+    "login": "Verbindung",
+    "register": "Anmeldung",
+    "google_connect": "Verbindung mit Google",
+    "facebook_connect": "Verbindung mit facebook",
+    "see-animal": "Sehen Sie das Tier",
+    "animal_name": "Vorname : ",
+    "animal_species": "Spezies : ",
+    "animal_morph": "Mutation : ",
+    "animal_age": "Age : ",
+    "animal_description": "Beschreibung : ",
+    "my_profil": "Mein profil",
+    "no_cards_start": "Hier klicken um zu Starten!",
+    "logout": "Ausloggen"
+  },
+  "notifications": {
+    "notification_time": "minuten",
+    "notification_time_format": "vor",
+    "type": {
+      "eat": "Es ist Essenszeit !",
+      "wash": "Es ist Zeit aufzuräumen !",
+      "weigh": "Es ist Zeit mich zu wiegen !"
+    }
+  },
+  "title": {
+    "home": "Zuhause",
+    "notifications": "Benachrichtigungen"
+  },
+  "modal": {
+    "title": "Ändere die Sprache :",
+    "description": "Nach Auswahl Ihrer Sprache sollte die Anwendung neu gestartet werden",
+    "reload": "Neustarten"
+  },
+  "profil": {
+    "edit_profil": "Bearbeiten",
+    "firstname": "Vorname",
+    "lastname": "Nachname",
+    "age": "Alter",
+    "mail": "Email",
+    "address": "Adresse",
+    "phone": "Telefon",
+    "siret": "Sirette"
+  }
+}

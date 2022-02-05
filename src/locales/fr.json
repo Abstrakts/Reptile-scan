@@ -1,0 +1,56 @@
+{
+  "message": {
+    "login": "Connexion",
+    "register": "Inscription",
+    "google_connect": "Connexion avec google",
+    "facebook_connect": "Connexion avec facebook",
+    "see-animal": "Voir l'animal",
+    "animal_name": "Nom : ",
+    "animal_species": "Espèce : ",
+    "animal_morph": "Mutation : ",
+    "animal_age": "Age : ",
+    "animal_old": "ans",
+    "animal_lastmeal": "Dernier repas : ",
+    "animal_description": "Déscription : ",
+    "my_profil": "Mon profil",
+    "no_cards_start": "Cliquez-ici pour commencer !",
+    "logout": "Deconnexion"
+    
+  },
+  "notifications": {
+    "notification_time": "minutes",
+    "notification_time_format": "Il y à",
+    "type": {
+      "eat": "Il est temps de manger !",
+      "wash": "Il est temps de me nettoyer !",
+      "weigh": "Il est temps de me peser !"
+    }
+  },
+  "title": {
+    "home": "Accueil",
+    "notifications": "Notifications"
+  },
+  "modal": {
+      "title" : "Changer la langue :",
+      "description" : "Après avoir choisis votre langue, l'application devra être redemarrer",
+      "reload" : "Redemarrer l'application"
+  },
+  "profil": {
+    "edit_profil": "Modifier",
+    "firstname": "Prénom",
+    "lastname": "Nom",
+    "age": "Age",
+    "mail": "Email",
+    "address": "Adresse",
+    "phone": "Téléphone",
+    "siret": "Siret"
+  },
+  "actions" : {
+    "meals" : "Repas",
+    "habitat" : "Habitat",
+    "moults" : "Mues",
+    "coupling" : "Accouplements",
+    "eggLaying" : "Pontes",
+    "notes" : "Notes"
+  }
+}

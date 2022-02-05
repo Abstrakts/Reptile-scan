@@ -1,0 +1,56 @@
+{
+  "message": {
+    "login": "Login",
+    "register": "Register",
+    "google_connect": "Login with google",
+    "facebook_connect": "Login with facebook",
+    "see-animal": "View animal",
+    "animal_name": "Name : ",
+    "animal_species": "Species : ",
+    "animal_morph": "Morph : ",
+    "animal_age": "Age : ",
+    "animal_old": "Years old",
+    "animal_lastmeal": "Latest meal : ",
+    "animal_description": "Description : ",
+    "my_profil": "My profil",
+    "no_cards_start": "click here to start!",
+    "logout": "Logout"
+  },
+  "notifications": {
+    "notification_time": "minutes ago",
+    "notification_time_format": "",
+    "type": {
+      "eat": "It's time to eat !",
+      "wash": "It's time to wash !",
+      "weigh": "It's time to weigh me !"
+    }
+  },
+  "title": {
+    "home": "Home",
+    "notifications": "Notifications",
+    "scanner": "Scanner"
+  },
+  "modal": {
+    "title": "Choose language :",
+    "description": "After choosing your language, the application should be restarted",
+    "reload": "Restart the application"
+  },
+  "profil": {
+    "edit_profil": "Edit",
+    "firstname": "Firstname",
+    "lastname": "Lastname",
+    "age": "Age",
+    "mail": "Mail",
+    "address": "Address",
+    "phone": "Phone",
+    "siret": "Siret"
+  },
+  "actions" : {
+    "meals" : "Meal's",
+    "habitat" : "Habitat",
+    "moults" : "Moult's",
+    "coupling" : "Coupling's",
+    "eggLaying" : "Egg Laying",
+    "notes" : "Notes"
+  }
+}

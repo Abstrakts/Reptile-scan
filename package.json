@@ -1,0 +1,63 @@
+{
+  "name": "reptilescan",
+  "version": "1.0.0",
+  "description": "A reptile scan application",
+  "author": "Dylan Piersanti <dylngae@outlook.com>",
+  "scripts": {
+    "dev": "tns debug android --no-hmr",
+    "i18n:report": "vue-cli-service i18n:report --src './src/**/*.?(js|vue)' --locales './src/locales/**/*.json'"
+  },
+  "dependencies": {
+    "@nstudio/nativescript-pulltorefresh": "^2.0.0",
+    "@teammaestro/nativescript-svg": "^1.0.1",
+    "axios": "^0.19.2",
+    "jspdf": "^1.5.3",
+    "nativescript-background-http": "^4.2.1",
+    "nativescript-barcodescanner": "^3.4.2",
+    "nativescript-canvas": "^3.0.7",
+    "nativescript-drop-down": "^5.0.4",
+    "nativescript-exit": "^1.0.1",
+    "nativescript-imagepicker": "^7.1.0",
+    "nativescript-local-notifications": "^4.2.1",
+    "nativescript-masked-text-field": "^4.0.3",
+    "nativescript-multi-select": "^1.0.6",
+    "nativescript-oauth2": "^2.4.0",
+    "nativescript-pdf-view": "^2.2.0",
+    "nativescript-permissions": "^1.3.9",
+    "nativescript-printer": "^1.5.0",
+    "nativescript-ui-autocomplete": "^6.0.1",
+    "nativescript-ui-listview": "^8.1.2",
+    "nativescript-ui-sidedrawer": "^8.0.1",
+    "nativescript-vue": "^2.6.1",
+    "nativescript-vue-shadow": "^0.1.0",
+    "pdfmake": "^0.1.65",
+    "tns-core-modules": "^6.5.1",
+    "vue": "^2.6.11",
+    "vue-google-signin-button": "^1.0.4",
+    "vue-i18n": "^8.17.5",
+    "vuex": "^3.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@intlify/vue-i18n-loader": "^1.0.0",
+    "babel-loader": "^8.1.0",
+    "nativescript-dev-webpack": "^1.5.1",
+    "nativescript-vue-template-compiler": "^2.6.0",
+    "nativescript-worker-loader": "~0.11.0",
+    "node-sass": "^4.13.1",
+    "vue-cli-plugin-i18n": "~1.0.1",
+    "vue-loader": "^15.9.1"
+  },
+  "license": "MIT",
+  "nativescript": {
+    "id": "org.nativescript.application",
+    "templateVersion": "v2",
+    "tns-android": {
+      "version": "6.5.0"
+    },
+    "tns-ios": {
+      "version": "6.5.0"
+    }
+  }
+}
